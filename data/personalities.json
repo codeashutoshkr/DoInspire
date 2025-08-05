@@ -1,0 +1,62 @@
+[
+  {
+    "domain": "Science",
+    "id": "apj-abdul-kalam",
+    "name": "APJ Abdul Kalam",
+    "life": ": 1931-2015",
+    "image": "images/apj.jpg",
+    "quote": "Dream is not that which you see while sleeping; it is something that does not let you sleep.",
+    "bio": "Born on October 15, 1931, in Rameswaram, Tamil Nadu, to a poor Tamil Muslim family. \nSold newspapers as a child to support his family but excelled in studies.Graduated in Physics (1954) and aerospace engineering (1960), overcoming financial hurdles.Joined ISRO (1969): Played a pivotal role in India’s first Satellite Launch Vehicle (SLV-III).As Chief of DRDO, led the development of:Agni (ballistic missile) and Prithvi (tactical missile).Pokhran-II nuclear tests (1998), establishing India as a nuclear power. \nEarned the nickname 'Missile Man of India'. Inspired millions with his humility and dedication to science.Authored books like 'Wings of Fire', motivating youth worldwide.Advocated for peaceful nuclear technology and rural development. Died on July 27, 2015, while delivering a lecture—symbolizing his passion for education.Awards: Bharat Ratna (1997), Hoover Medal (2008), and honorary doctorates globally.Remembered for his quote: 'Dream, dream, dream. Dreams transform into thoughts, and thoughts result in action'.",
+    "book": "Wings of Fire, Ignited Minds",
+        "videos": [
+      "https://www.youtube.com/embed/3SDkzDlw1yc",
+      "https://www.youtube.com/embed/s4fBxHDQfho"
+    ]
+
+  },
+  {
+    "domain": "Tech",
+    "id": "steve-jobs",
+    "name": "Steve Jobs",
+    "life": ": 1955-2011",
+    "image": "images/steve.jpg",
+    "quote": "Stay hungry, stay foolish.",
+    "bio": "Born February 24, 1955, in San Francisco, adopted by Paul and Clara Jobs. Dropped out of Reed College (1972) but audited calligraphy classes—later inspiring Mac’s typography.Co-founded Apple in his parents’ garage (1976) with Steve Wozniak. Apple Revolution (1976-1985): Apple I (1976): Hand-built computer that launched the company.  Macintosh (1984): First mass-market PC with a graphical interface. Fired from Apple in 1985 after internal conflicts. In 2004: Diagnosed with pancreatic cancer; delayed treatment for 9 months. NeXT & Pixar (1985-1996): Founded NeXT Computer (high-end workstations). Bought Pixar (1986), producing Toy Story (1995)—first CGI animated film. Returned as CEO (1997) and saved Apple from bankruptcy. Made technology intuitive, artistic, and personal.  Created the 'Apple Ecosystem' (hardware, software, services).  Inspired startups worldwide with his focus on design + functionality.  Died October 5, 2011, from cancer complications.",
+    "book": " Steve Jobs (Walter Isaacson), The Innovators (Walter Isaacson)" ,
+    "videos": [
+      "https://www.youtube.com/embed/UF8uR6Z6KLc",
+      "https://www.youtube.com/embed/ACucrVBq8Yg"
+    ]
+  },
+  {
+    "domain": "Politics",
+    "id": "nelson-mandela",
+    "name": "Nelson Mandela",
+    "life": ": 1918-2013 ",
+    "image": "images/mandela.jpg",
+    "quote": "Education is the most powerful weapon which you can use to change the world.",
+    "bio": "Born July 18, 1918, in Mvezo, South Africa. Member of the Thembu royal family. Studied law and co-founded South Africa’s first Black law firm (1952). Joined the African National Congress (ANC) in 1944 to fight apartheid.  Anti-Apartheid Movement (1950s-1964): Led peaceful protests and the Defiance Campaign (1952).  Co-founded Umkhonto we Sizwe (1961), ANC’s armed wing, after non-violent options were crushed.  Arrested in 1962, sentenced to life imprisonment in 1964 (Rivonia Trial). 27 Years in Prison (1964-1990): Incarcerated in Robben Island under brutal conditions. Became a global symbol of resistance, with campaigns demanding his release.  Ending Apartheid (1990-1994):  Freed in 1990 after international pressure.  Negotiated with President F.W. de Klerk to end apartheid.  Awarded the Nobel Peace Prize (1993) with de Klerk.  Presidency (1994-1999):  Elected as South Africa’s first Black president (1994).  Promoted reconciliation (Truth and Reconciliation Commission) over vengeance. Focused on dismantling systemic racism and poverty. Inspired civil rights movements worldwide. Proved forgiveness could heal nations (e.g., embraced former jailers). Raised awareness about HIV/AIDS after presidency.  Died December 5, 2013, aged 95.",    
+    "book": " Long Walk to Freedom (Mandela’s autobiography), The Prison Letters of Nelson Mandela",
+    "videos": [
+      "https://www.youtube.com/embed/6D2YSOGpen0",
+      "https://www.youtube.com/embed/qiHtROcjd6M"
+    ]
+  },
+
+{
+    "domain": "Tech",
+    "id": "elon-musk",
+    "name": "Elon Musk",
+    "life": "1971-Present",
+    "image": "images/elon.jpg",
+    "quote": "When something is important enough, you do it even if the odds are not in your favor.",
+    "bio": "Born June 28, 1971, in Pretoria, South Africa. Taught himself programming at age 10. Moved to Canada at 17 to avoid mandatory service in South African military. Earned degrees in Physics and Economics from the University of Pennsylvania. Co-founded Zip2 (1995), sold to Compaq for $307 million. Founded X.com (1999) which became PayPal, sold to eBay for $1.5 billion. Founded SpaceX in 2002 to make space travel affordable. Became Tesla's largest investor in 2004, later CEO. Revolutionized electric cars with Tesla Roadster (2008) and Model S (2012). Proposed Hyperloop (2013) and founded The Boring Company (2016). Acquired Twitter (2022), renamed X (2023). First privately-funded company (SpaceX) to send astronauts to ISS (2020). Currently working on Neuralink (brain-computer interfaces) and AI through xAI.",
+    "book": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future (Ashlee Vance), Liftoff: Elon Musk and the Desperate Early Days That Launched SpaceX (Eric Berger)",
+    "videos": [
+      "https://www.youtube.com/embed/DxREm3s1scA",
+      "https://www.youtube.com/embed/8YHBJdPK6eY"
+      
+    ]
+}
+]
+
