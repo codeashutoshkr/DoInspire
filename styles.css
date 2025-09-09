@@ -252,6 +252,11 @@
        #dadae3 100%
     );
     padding: 1rem;
+   
+}
+.about-p{
+  padding: 1rem 6rem;
+  
 }
 .about-us{
     text-align: center;
@@ -316,30 +321,14 @@ nav#domain-filter {
   background-color: #2c3e50;
   transform: translateY(-2px);
 }
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.4em;
-  padding: 2em 3rem;
-
-}
-
-
-.personality-section {
-  padding: 2rem;
-  text-align: center;
-}
-
 .personality-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 0.2rem;
+  grid-template-columns: repeat(4, 1fr); /* 4 equal-width columns */
+  gap: 1rem; /* more breathing space between cards */
   margin-top: 2rem;
-  padding: 3.5rem;
-  
-
+  padding: 2rem;
 }
+
 
 .personality-card {
   background: linear-gradient(
@@ -593,3 +582,24 @@ blockquote {
     padding: 1rem;
   }
 }
+  @media (max-width: 1200px) {
+            #personalities-container {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+        
+        @media (max-width: 900px) {
+            #personalities-container {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+        
+        @media (max-width: 600px) {
+            #personalities-container{
+                grid-template-columns: 1fr;
+            }
+            
+            .controls {
+                flex-wrap: wrap;
+            }
+        }

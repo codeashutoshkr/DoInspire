@@ -57,6 +57,26 @@
       "https://www.youtube.com/embed/8YHBJdPK6eY"
       
     ]
+},
+{
+"domain": "Mathematician",
+"id": "srinivasa-ramanujan",
+"name": "Srinivasa Ramanujan",
+"life": "1887-1920",
+"image": "images/ramanujan.jpg",
+"quote": "An equation for me has no meaning unless it expresses a thought of God.",
+"bio": "Born December 22, 1887, in Erode, Tamil Nadu, India. Showed exceptional mathematical talent from childhood, mastering trigonometry at age 12. Failed college exams multiple times due to focusing only on mathematics. Worked as a clerk in Madras while independently developing revolutionary mathematical theories. Sent letters to British mathematicians containing his original theorems. Invited to Cambridge University by G.H. Hardy in 1914, recognizing his genius. Published groundbreaking work on number theory, infinite series, and continued fractions. Developed the Hardy-Ramanujan number 1729 (smallest number expressible as sum of two cubes in two different ways). Became first Indian Fellow of the Royal Society in 1918 and Trinity College Cambridge Fellow in 1919. Returned to India in 1919 due to deteriorating health. Made substantial contributions to mathematical analysis, number theory, and mock theta functions. Died April 26, 1920, at age 32, leaving behind notebooks filled with unpublished theorems that continue to inspire mathematicians.",
+"book": "The Man Who Knew Infinity: A Life of the Genius Ramanujan (Robert Kanigel), Ramanujan: Letters and Commentary (Bruce C. Berndt), Notebooks of Srinivasa Ramanujan (2 Volumes)",
+"videos": ["https://www.youtube.com/embed/fHRS_NOs24w"]
+},
+{
+  "name": "Albert Einstein",
+  "life": "1879-1955",
+  "image": "images/einstein.jpg",
+  "quote": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.",
+  "bio": "Born March 14, 1879, in Ulm, Germany. Showed early fascination with mathematics and physics despite initial speech difficulties. Worked as a patent clerk in Bern, Switzerland, while developing his groundbreaking theories. Published the Annus Mirabilis papers in 1905, including the theory of special relativity and E=mc² equation. Awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect. Developed the general theory of relativity in 1915, revolutionizing understanding of gravity, space, and time. Fled Nazi Germany in 1933 and settled in the United States, joining Princeton University. Warned President Roosevelt about potential German nuclear weapons, leading to the Manhattan Project. Became a vocal advocate for civil rights, pacifism, and Zionism. Died April 18, 1955, in Princeton, New Jersey, leaving behind a transformed understanding of the physical universe.",
+  "book": "Einstein: His Life and Universe (Walter Isaacson), The World As I See It (Albert Einstein), Relativity: The Special and General Theory (Albert Einstein)",
+  "videos": ["https://www.youtube.com/embed/0zk-NVPYPWk"]
 }
 ]
 
