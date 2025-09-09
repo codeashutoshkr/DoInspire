@@ -251,9 +251,11 @@
         #f5f6f7 0%,
        #dadae3 100%
     );
+    padding: 1rem;
 }
 .about-us{
     text-align: center;
+    padding: 1rem;
 }
 /*footer*/
 footer {
