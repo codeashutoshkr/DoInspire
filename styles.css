@@ -78,7 +78,7 @@
   border-radius: 4px;
 }
 
-.email-form bottom,
+
 .email-form button {
   padding: 0.6rem 1.2rem;
   background-color: #0ea5e9;
@@ -461,7 +461,7 @@ blockquote {
 
 /* ------------------------------------------------- Responsive Design --------------------------------------------------------------------- */
 
-@media (max-width: 768px) {
+@media only screen and (max-width: 600px) {
   header.home {
     flex-direction: column;
     align-items: flex-start;
@@ -473,6 +473,16 @@ blockquote {
     display: flex;
     flex-wrap: wrap;
     gap: 1rem;
+  }
+  
+  
+  .email-form input[type="email"] {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  .email-form button {
+    width: 50%;
   }
 
   .hero {
@@ -487,13 +497,38 @@ blockquote {
     padding: 0.8rem 2rem;
     font-size: 0.9rem;
   }
+  .about{
+    padding: 1rem;
+  }
+  .about-us{
+    padding: 0.3rem;
+  }
+  .about-p{
+  padding: 0.5rem 0.5rem;
+  }
+  .contact{
+    padding: 1rem 1rem; 
+  }
+  .contact-header{
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.contact-subheader{
+  font-size: 0.8rem;
+  margin-bottom: 1rem;
+}
+footer{
+  padding: 0.3rem;
+}
 
   .grid,
   .personality-grid {
     padding: 1rem;
     gap: 1rem;
+    
   }
-
+  
   .personality-card {
     width: 100%;
     max-width: none;
@@ -503,15 +538,6 @@ blockquote {
   .person-header {
     flex-direction: column;
     text-align: center;
-  }
-
-  .person-header img {
-    width: 150px;
-    height: 150px;
-  }
-
-  .person-info h1 {
-    font-size: 1.5rem;
   }
 
   .video-container {
@@ -529,20 +555,8 @@ blockquote {
   }
 
   .email {
-    padding: 2rem 1rem;
-    margin: 5rem auto;
-  }
-
-  .email-form input[type="email"] {
-    width: 80%;
-  }
-
-  .contact {
-    padding: 2rem 1rem;
-  }
-
-  .contact-header {
-    font-size: 2rem;
+    padding: 2rem auto;
+    margin-top: 1rem auto;
   }
 
   .contact-links {
@@ -555,16 +569,9 @@ blockquote {
   }
 }
 
-@media (max-width: 480px) {
-  .hero h2 {
-    font-size: 1.3rem;
-  }
-
-  .explore-botton {
-    padding: 0.6rem 1.5rem;
-    font-size: 0.8rem;
-  }
-
+@media (max-width: 600px) {
+ 
+  
   .person-info h1 {
     font-size: 1.3rem;
   }
