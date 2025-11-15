@@ -77,6 +77,48 @@
   "bio": "Born March 14, 1879, in Ulm, Germany. Showed early fascination with mathematics and physics despite initial speech difficulties. Worked as a patent clerk in Bern, Switzerland, while developing his groundbreaking theories. Published the Annus Mirabilis papers in 1905, including the theory of special relativity and E=mc² equation. Awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect. Developed the general theory of relativity in 1915, revolutionizing understanding of gravity, space, and time. Fled Nazi Germany in 1933 and settled in the United States, joining Princeton University. Warned President Roosevelt about potential German nuclear weapons, leading to the Manhattan Project. Became a vocal advocate for civil rights, pacifism, and Zionism. Died April 18, 1955, in Princeton, New Jersey, leaving behind a transformed understanding of the physical universe.",
   "book": "Einstein: His Life and Universe (Walter Isaacson), The World As I See It (Albert Einstein), Relativity: The Special and General Theory (Albert Einstein)",
   "videos": ["https://www.youtube.com/embed/0zk-NVPYPWk"]
+},
+{
+    "domain": "Tech",
+    "id": "mark-zuckerberg",
+    "name": "Mark Zuckerberg",
+    "life": "1984-Present",
+    "image": "images/zuckerberg.jpg",
+    "quote": "The biggest risk is not taking any risk. In a world that is changing really quickly, the only strategy that is guaranteed to fail is not taking risks.",
+    "bio": "Born May 14, 1984, in White Plains, New York. Showed programming talent early, creating communication tools in middle school. Attended Harvard University where he launched Facebook from his dorm room in 2004. Dropped out of Harvard to focus on Facebook full-time. Expanded Facebook from college network to global platform reaching billions. Became the world's youngest self-made billionaire at age 23. Led Facebook's IPO in 2012, one of the largest in tech history. Acquired Instagram (2012), WhatsApp (2014), and Oculus VR (2014). Faced multiple congressional hearings on data privacy and election interference. Rebranded Facebook to Meta in 2021, focusing on metaverse development. Committed to donating 99% of his Facebook shares to philanthropic causes through the Chan Zuckerberg Initiative. Continues to shape social media, virtual reality, and artificial intelligence landscapes.",
+    "book": "The Facebook Effect: The Inside Story of the Company That Is Connecting the World (David Kirkpatrick), The Boy Kings: A Journey into the Heart of the Social Network (Katherine Losse)",
+    "videos": [
+        "https://www.youtube.com/embed/Lb4IcGF5iTQ",
+        "https://www.youtube.com/embed/BmYv8XGl-YU"
+    ]
+},
+{
+    "domain": "Tech",
+    "id": "jensen-huang",
+    "name": "Jensen Huang",
+    "life": "1963-Present",
+    "image": "images/jensen.jpg",
+    "quote": "We are the only company in the world that is architected to advance accelerated computing at all levels of the stack.",
+    "bio": "Born February 17, 1963, in Taipei, Taiwan. Immigrated to the United States as a child, attending school in Kentucky and later Oregon. Earned bachelor's degree in electrical engineering from Oregon State University (1984) and master's degree from Stanford University (1992). Worked as a microprocessor designer at LSI Logic and AMD. Co-founded NVIDIA in 1993 with Chris Malachowsky and Curtis Priem with $40,000. Started company at a Denny's restaurant, focusing on graphics processing units (GPUs). Revolutionized gaming with GeForce graphics cards in 1999. Pioneered GPU computing with CUDA platform in 2006. Led NVIDIA's expansion into AI, data centers, and autonomous vehicles. Became one of the longest-serving CEOs in tech industry. Reached $1 trillion market cap in 2023, making NVIDIA one of the most valuable companies worldwide. Known for his signature leather jacket and visionary leadership in AI revolution.",
+    "book": "The NVIDIA Story: How a Denny's Diner Idea Became a Tech Giant (Various Authors), AI Superpowers: China, Silicon Valley, and the New World Order (Kai-Fu Lee)",
+    "videos": [
+        "https://www.youtube.com/embed/lXLBTBBil2U",
+        "https://www.youtube.com/embed/lMW5v7wK7zo"
+    ]
+},
+{
+    "domain": "Business",
+    "id": "ratan-tata",
+    "name": "Ratan Tata",
+    "life": "1937-Present",
+    "image": "images/ratan-tata.jpg",
+    "quote": "I don't believe in taking right decisions. I take decisions and then make them right.",
+    "bio": "Born December 28, 1937, in Mumbai, India, into the prominent Tata family. Studied architecture at Cornell University and completed advanced management program at Harvard Business School. Started career working on the shop floor at Tata Steel in 1962. Became Chairman of Tata Sons in 1991, succeeding J.R.D. Tata. Transformed the Tata Group from a traditional conglomerate into a global powerhouse. Led major acquisitions including Tetley (2000), Corus Steel (2007), and Jaguar Land Rover (2008). Spearheaded development of Tata Nano, the world's cheapest car at $2,500. Expanded Tata Group's revenue from $5.8 billion to over $100 billion during his leadership. Stepped down as Chairman in 2012 but remains Chairman Emeritus. Known for his humble lifestyle, ethical business practices, and massive philanthropic contributions. Heads Tata Trusts, one of India's largest philanthropic organizations controlling 66% of Tata Group. Received Padma Bhushan (2000) and Padma Vibhushan (2008), India's highest civilian honors.",
+    "book": "The Story of Tata: 1868 to 2021 (Shashank Shah), Ratan N. Tata: A Biography (Dr. Thomas Mathew), The Tata Group: From Torchbearers to Trailblazers (Shashank Shah)",
+    "videos": [
+        "https://www.youtube.com/embed/9mySvo-EPT0",
+        "https://www.youtube.com/embed/9dLKZZN5tSo"
+    ]
 }
 ]
 
