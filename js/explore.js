@@ -14,12 +14,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function renderCards(data) {
     container.innerHTML = "";
-    data.forEach((person, index) => {
+    data.forEach((person) => {
       const card = document.createElement("div");
       card.classList.add("personality-card");
 
       card.innerHTML = `
-        <a href="person.html?index=${index}">
+        <a href="person.html?id=${person.id}">
           <img src="${person.image}" alt="${person.name}">
           <h3>${person.name}</h3>
           <p>"${person.quote}"</p>

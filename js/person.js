@@ -2,9 +2,9 @@
 
 document.addEventListener("DOMContentLoaded", () => {
   const urlParams = new URLSearchParams(window.location.search);
-  const index = urlParams.get("index");
+  const id = urlParams.get("id");
 
-  if (!index) {
+  if (!id) {
     document.body.innerHTML = "<h2>Invalid personality selected</h2>";
     return;
   }
@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
   fetch("data/personalities.json")
     .then((res) => res.json())
     .then((data) => {
-      const person = data[index];
+     const person = data.find(p => p.id === id);
 
       if (!person) {
         document.body.innerHTML = "<h2>Personality not found</h2>";
